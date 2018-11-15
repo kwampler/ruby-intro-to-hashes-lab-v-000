@@ -23,7 +23,7 @@ monopoly = {
 	  {
 	    :pieces=>4
 	  },
-	    :names =>s
+	    :names =>
 end
 
 def monopoly_with_third_tier
