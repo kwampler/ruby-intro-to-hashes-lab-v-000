@@ -22,7 +22,7 @@ monopoly = {
 	  {
 	    :pieces=>4
 	  },
-	    :names =>
+	    :namess=>
 }
 end
 
