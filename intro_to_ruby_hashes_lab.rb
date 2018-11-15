@@ -10,7 +10,6 @@ actor = {
 end
 
 def monopoly
-<<<<<<< HEAD
 	monopoly = {
 	  "railroads": {}
 	}
