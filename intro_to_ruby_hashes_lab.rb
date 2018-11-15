@@ -20,8 +20,9 @@ def monopoly_with_second_tier
   monopoloy = {
     :railroads=>1
       {
-        :pieces=>4  
-      }
+        :pieces=>
+        {
+         }
 }
 end
 
